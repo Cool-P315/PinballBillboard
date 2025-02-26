@@ -2,7 +2,7 @@
 //  GameScene.swift
 //  Pinball Billboard
 //
-//  Created by Martin Pintar on 26.02.25.
+//  Created by Martin Pintar (Cool P) on 26.02.25.
 //
 
 import SpriteKit
